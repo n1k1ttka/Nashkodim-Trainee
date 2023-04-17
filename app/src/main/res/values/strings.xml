@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Nashkodim Trainee</string>
+    <string name="loading_fragment">1</string>
+    <string name="overview_fragment">2</string>
+    <string name="list_label">Список криптовалют</string>
+    <string name="usd">USD</string>
+    <string name="eur">EUR</string>
+    <string name="Smth_error">Случилась какая-то ошибка :(</string>
+    <string name="try_again">Попробуем снова?</string>
+    <string name="refresh">Попробовать</string>
+    <string name="currency">%s</string>
+    <string name="percent">%s%%</string>
+</resources>
